@@ -5,9 +5,9 @@ title_separator: "-"
 subtitle: "Assistant Professor of Economics"
 name: &name "Yoon Joo Jo"
 description: &description "Assistant Professor of Economics at Texas A&M University"
-url: "https://yoonjoojo.com"
+url: "https://yoonjo-work.github.io"
 baseurl: ""
-repository: "yoonjoojo/yoonjoojo.github.io"
+repository: "yoonjo-work/yoonjo-work.github.io"
 
 # Author Settings
 author:
@@ -17,7 +17,7 @@ author:
   location: "College Station, TX"
   employer: "Texas A&M University"
   email: "yoonjo@tamu.edu"
-  uri: "https://yoonjoojo.com"
+  uri: "https://yoonjo-work.github.io"
   googlescholar: "https://scholar.google.com/citations?user=N4IceroAAAAJ&hl=en"
   twitter: "yoonjoo_jo"
   linkedin: "yoon-joo-jo"
