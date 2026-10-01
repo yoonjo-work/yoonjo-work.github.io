@@ -1,0 +1,50 @@
+---
+---
+{% include base_path %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% include seo.html %}
+  <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap">
+  <link rel="stylesheet" href="{{ base_path }}/assets/css/minimal.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <div class="wrap">
+    <header class="hero">
+      <img class="hero__photo" src="{{ base_path }}/images/{{ site.author.avatar }}" alt="{{ site.author.name }}" width="144" height="144">
+      <div class="hero__text">
+        <h1 class="hero__name"><a href="{{ base_path }}/">{{ site.author.name }}</a></h1>
+        <p class="hero__role">{{ site.author.bio }}<br>{{ site.author.employer }}</p>
+        <p class="hero__email">
+          <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+        </p>
+        <p class="hero__links">
+          <a href="{{ base_path }}/files/Yoon_Jo_CV.pdf">CV</a>
+          <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+          {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>{% endif %}
+          {% if site.author.twitter %}<a href="https://x.com/{{ site.author.twitter }}">X</a>{% endif %}
+        </p>
+      </div>
+    </header>
+
+    <nav class="nav" aria-label="Main navigation">
+      <a href="{{ base_path }}/"{% if page.url == "/" %} class="is-active" aria-current="page"{% endif %}>About</a>
+      {% for link in site.data.navigation.main %}
+        <a href="{{ base_path }}{{ link.url }}"{% if page.url == link.url %} class="is-active" aria-current="page"{% endif %}>{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+
+    <main class="content" id="main-content" tabindex="-1">
+      {{ content }}
+    </main>
+
+    <footer class="footer">© {{ site.time | date: "%Y" }} {{ site.author.name }}</footer>
+  </div>
+</body>
+</html>

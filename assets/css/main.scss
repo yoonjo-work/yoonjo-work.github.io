@@ -35,9 +35,70 @@
     "layout/page",
     "layout/archive",
     "layout/sidebar",
-    "layout/json_cv",
-
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
+    "layout/json_cv"
 ;
+
+/* Site-specific tweaks */
+:root {
+  --global-link-color         : #2b5f8a;
+  --global-link-color-hover   : #1a3d5c;
+  --global-link-color-visited : #2b5f8a;
+}
+
+body { line-height: 1.6; }
+
+.page__title,
+.author__name,
+.masthead__menu-item--lg a {
+  font-family: $header-font-family;
+  font-weight: 600;
+}
+
+.page__content h2 {
+  font-family: $header-font-family;
+  font-weight: 600;
+  margin-top: 2em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.page__content p,
+.page__content li { font-size: 1.05em; }
+
+.author__avatar img {
+  border-radius: 50%;
+  max-width: 200px;
+}
+
+/* Paper entries on the research page */
+.paper {
+  margin-bottom: 1.6em;
+}
+.paper__title {
+  font-weight: 600;
+  font-size: 1.08em;
+}
+.paper__meta {
+  margin: 0.15em 0;
+  color: var(--global-text-color-light);
+}
+.paper__links a {
+  margin-right: 0.9em;
+  font-size: 0.95em;
+}
+.paper details {
+  margin-top: 0.3em;
+  font-size: 0.95em;
+}
+.paper summary {
+  cursor: pointer;
+  color: var(--global-link-color);
+}
+
+/* Embedded CV */
+.cv-embed {
+  width: 100%;
+  height: 85vh;
+  border: 1px solid var(--global-border-color);
+  border-radius: 4px;
+}
