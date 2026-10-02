@@ -22,7 +22,7 @@ Working Papers
   </li>
   <li>
     <a class="paper-title" href="{{ '/files/Jo_Oh_DNWR_Currency_Unions.pdf' | relative_url }}">Revisiting Wage Rigidity and Welfare in Currency Unions: The Role of Downward Nominal Wage Rigidity</a>
-    <div class="paper-meta">with <a class="coauthor" href="https://sites.google.com/view/joonseokoh/">Joonseok Oh</a>. Second-round revision resubmitted, <em>Journal of Money, Credit and Banking</em>.</div>
+    <div class="paper-meta">with <a class="coauthor" href="https://sites.google.com/view/joonseokoh/">Joonseok Oh</a>. Accepted, <em>Journal of Money, Credit and Banking</em>.</div>
     <div class="paper-links"><a href="{{ '/files/Jo_Oh_DNWR_Currency_Unions.pdf' | relative_url }}">Paper</a> · <details><summary>Abstract</summary><p>This paper studies the welfare implications of downward nominal wage rigidity (DNWR) in a currency union. Using firm-level survey data from the European Union, we document the prevalence of DNWR and incorporate it into a small open economy New Keynesian model with staggered wage adjustment. Consistent with previous literature, a model without DNWR generates a hump-shaped relationship between welfare loss and wage sluggishness. Once DNWR is introduced and the constraint binds sufficiently frequently, however, this trade-off largely disappears. By constraining downward wage adjustment, DNWR compresses wage and price inflation volatility, making employment fluctuations the dominant source of welfare loss. As a result, welfare losses increase monotonically with wage sluggishness. We further show that these effects are state-dependent and that DNWR flattens the Phillips curve, amplifying the real effects of demand shocks in a currency union.</p></details></div>
   </li>
 </ul>
