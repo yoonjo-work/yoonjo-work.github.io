@@ -20,17 +20,17 @@ Working Papers
     <div class="paper-meta">with Béla Elmshauser and <a class="coauthor" href="http://www.evankfriedman.com/">Evan Friedman</a>. Under review.</div>
     <div class="paper-links"><a href="{{ '/files/Elmshauser_Friedman_Jo_Deception_Aversion.pdf' | relative_url }}">Paper</a> · <details><summary>Abstract</summary><p>In communicating private information, opportunities to lie by misreporting the truth also present opportunities to deceive by inducing inaccurate beliefs. While many studies document truth-telling despite material costs—commonly attributed to lying aversion—such behavior may also reflect aversion to deceiving others. Disentangling the two preferences is challenging because deception depends on the sender's unobserved second-order beliefs. In a novel game, we show theoretically how to identify deception aversion from choice data alone, under minimal assumptions on beliefs. In a laboratory experiment, we find strong evidence of deception aversion: many subjects lie to avoid deception; structural estimates imply that 30% are deception-averse.</p></details></div>
   </li>
-  <li>
-    <a class="paper-title" href="{{ '/files/Jo_Oh_DNWR_Currency_Unions.pdf' | relative_url }}">Revisiting Wage Rigidity and Welfare in Currency Unions: The Role of Downward Nominal Wage Rigidity</a>
-    <div class="paper-meta">with <a class="coauthor" href="https://sites.google.com/view/joonseokoh/">Joonseok Oh</a>. Accepted, <em>Journal of Money, Credit and Banking</em>.</div>
-    <div class="paper-links"><a href="{{ '/files/Jo_Oh_DNWR_Currency_Unions.pdf' | relative_url }}">Paper</a> · <details><summary>Abstract</summary><p>This paper studies the welfare implications of downward nominal wage rigidity (DNWR) in a currency union. Using firm-level survey data from the European Union, we document the prevalence of DNWR and incorporate it into a small open economy New Keynesian model with staggered wage adjustment. Consistent with previous literature, a model without DNWR generates a hump-shaped relationship between welfare loss and wage sluggishness. Once DNWR is introduced and the constraint binds sufficiently frequently, however, this trade-off largely disappears. By constraining downward wage adjustment, DNWR compresses wage and price inflation volatility, making employment fluctuations the dominant source of welfare loss. As a result, welfare losses increase monotonically with wage sluggishness. We further show that these effects are state-dependent and that DNWR flattens the Phillips curve, amplifying the real effects of demand shocks in a currency union.</p></details></div>
-  </li>
 </ul>
 
 Publications
 ------
 
 <ul class="papers">
+    <li>
+    <a class="paper-title" href="{{ '/files/Jo_Oh_DNWR_Currency_Unions.pdf' | relative_url }}">Revisiting Wage Rigidity and Welfare in Currency Unions: The Role of Downward Nominal Wage Rigidity</a>
+    <div class="paper-meta">with <a class="coauthor" href="https://sites.google.com/view/joonseokoh/">Joonseok Oh</a>. Accepted, <em>Journal of Money, Credit and Banking</em>.</div>
+    <div class="paper-links"><a href="{{ '/files/Jo_Oh_DNWR_Currency_Unions.pdf' | relative_url }}">Paper</a> · <details><summary>Abstract</summary><p>This paper studies the welfare implications of downward nominal wage rigidity (DNWR) in a currency union. Using firm-level survey data from the European Union, we document the prevalence of DNWR and incorporate it into a small open economy New Keynesian model with staggered wage adjustment. Consistent with previous literature, a model without DNWR generates a hump-shaped relationship between welfare loss and wage sluggishness. Once DNWR is introduced and the constraint binds sufficiently frequently, however, this trade-off largely disappears. By constraining downward wage adjustment, DNWR compresses wage and price inflation volatility, making employment fluctuations the dominant source of welfare loss. As a result, welfare losses increase monotonically with wage sluggishness. We further show that these effects are state-dependent and that DNWR flattens the Phillips curve, amplifying the real effects of demand shocks in a currency union.</p></details></div>
+  </li>
   <li>
     <a class="paper-title" href="https://doi.org/10.1016/j.jinteco.2025.104117">Beyond the Spike at Zero: Understanding Nominal Wage Rigidity through Empirical and Model-Based Approaches</a>
     <div class="paper-meta"><em>Journal of International Economics</em>, 157, September 2025, 104117.</div>
