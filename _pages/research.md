@@ -49,7 +49,7 @@ Publications
   <li>
     <a class="paper-title" href="https://doi.org/10.1162/rest_a_01272">The Impact of Retail E-Commerce on Relative Prices and Consumer Welfare</a>
     <div class="paper-meta">with <a class="coauthor" href="https://sites.google.com/site/misakimatsumura/">Misaki Matsumura</a> and <a class="coauthor" href="http://blogs.cuit.columbia.edu/dew35/">David E. Weinstein</a>. <em>The Review of Economics and Statistics</em>, 106(6), November 2024, 1675–1689.</div>
-    <div class="paper-links"><a href="https://doi.org/10.1162/rest_a_01272">Published version</a> · <a href="https://www.nber.org/papers/w26506">Pre-print (NBER Working Paper 26506)</a></div>
+    <div class="paper-links"><a href="https://doi.org/10.1162/rest_a_01272">Published version</a> · <a href="https://www.nber.org/papers/w26506">Pre-print (NBER Working Paper 26506)</a> · <a href="https://doi.org/10.7910/DVN/KBWIFW">Replication package</a></div>
   </li>
 </ul>
 
