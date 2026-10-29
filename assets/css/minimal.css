@@ -108,6 +108,7 @@ a:focus-visible, summary:focus-visible {
 .papers li:last-child { margin-bottom: 0; }
 .content .paper-title { display: block; color: var(--text); font-size: 1.0625rem; font-weight: 700; line-height: 1.5; }
 .content .paper-title:hover { color: var(--accent); }
+.content span.paper-title:hover { color: var(--text); }
 .paper-authors, .paper-meta { color: var(--muted); font-size: .9375rem; margin-top: 4px; }
 .content .coauthor { color: inherit; text-decoration: underline; text-decoration-color: var(--line); }
 .content .coauthor:hover { color: var(--accent); text-decoration-color: currentColor; }

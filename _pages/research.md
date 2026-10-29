@@ -57,8 +57,18 @@ Selected Work in Progress
 ------
 
 
-- Work Schedule Rigidity and Fertility (with Eunseong Ma)
-- Inflation and Effective Labor Supply (with Chae Won Baek and Vitaliia Yaremko), [AEA RCT Registry 0017600](https://www.socialscienceregistry.org/trials/17600)
-- Fertility Expectation Distortions and Low Fertility: An Information Experiment on Fertility Intentions (with Suanna Oh,
-Kwanghwan Kim, Taekyung Kim, Myunghwan Lee, Myungkyu Shim,a nd Inkyung Yoo, Data collection supported by the Bank of Korea.
-{: .papers}
+<ul class="papers">
+  <li>
+    <span class="paper-title">Work Schedule Rigidity and Fertility</span>
+    <div class="paper-meta">with Eunseong Ma.</div>
+  </li>
+  <li>
+    <span class="paper-title">Inflation and Effective Labor Supply</span>
+    <div class="paper-meta">with Chae Won Baek and Vitaliia Yaremko.</div>
+    <div class="paper-links"><a href="https://www.socialscienceregistry.org/trials/17600">AEA RCT Registry 0017600</a></div>
+  </li>
+  <li>
+    <span class="paper-title">Fertility Expectation Distortions and Low Fertility: An Information Experiment on Fertility Intentions</span>
+    <div class="paper-meta">with Suanna Oh, Kwanghwan Kim, Taekyung Kim, Myunghwan Lee, Myungkyu Shim, and Inkyung Yoo. Data collection supported by the Bank of Korea.</div>
+  </li>
+</ul>
