@@ -20,6 +20,11 @@ Working Papers
     <div class="paper-meta">with Béla Elmshauser and <a class="coauthor" href="http://www.evankfriedman.com/">Evan Friedman</a>. Under review.</div>
     <div class="paper-links"><a href="{{ '/files/Elmshauser_Friedman_Jo_Deception_Aversion.pdf' | relative_url }}">Paper</a> · <details><summary>Abstract</summary><p>In communicating private information, opportunities to lie by misreporting the truth also present opportunities to deceive by inducing inaccurate beliefs. While many studies document truth-telling despite material costs—commonly attributed to lying aversion—such behavior may also reflect aversion to deceiving others. Disentangling the two preferences is challenging because deception depends on the sender's unobserved second-order beliefs. In a novel game, we show theoretically how to identify deception aversion from choice data alone, under minimal assumptions on beliefs. In a laboratory experiment, we find strong evidence of deception aversion: many subjects lie to avoid deception; structural estimates imply that 30% are deception-averse.</p></details></div>
   </li>
+  <li>
+    <span class="paper-title">When Work Takes the Hours Children Need: Job Schedules and Fertility</span>
+    <div class="paper-meta">with <a class="coauthor" href="https://sites.google.com/site/eunseongmaecon/eunseong-ma">Eunseong Ma</a>. Draft available upon request.</div>
+    <div class="paper-links"><details><summary>Abstract</summary><p>We study how the timing of jobs relates to fertility and mothers' employment. We measure how concentrated a job is in the daytime, when young children most need their parents, as the share of work between 8:00 and 18:00 in the American Time Use Survey. Instrumenting it with the schedules of childless never-married men in the same industry-occupation cell, we find that women in jobs one standard deviation more concentrated have 0.27 fewer children than men in such jobs, about 30 percent of the mean, and have their first birth 1.4 years later, even though the gender wage gap is smaller in these jobs. Relative to fathers, mothers whose pre-birth job was one standard deviation more concentrated are 13 percentage points more likely to be employed a year after the birth. In a life-cycle model where these jobs pay more but make a mother's care time less effective, halving their pay premium raises completed fertility from 2.00 to 2.11 children per woman. A care reform that raises fertility by the same amount instead moves more mothers into these jobs.</p></details></div>
+  </li>
 </ul>
 
 Publications
@@ -59,16 +64,12 @@ Selected Work in Progress
 
 <ul class="papers">
   <li>
-    <span class="paper-title">Work Schedule Rigidity and Fertility</span>
-    <div class="paper-meta">with Eunseong Ma.</div>
-  </li>
-  <li>
-    <span class="paper-title">Inflation and Effective Labor Supply</span>
+    <span class="paper-title">Does Inflation Grease the Wheels of Labor Markets? Inflation, Nominal Wages, and Labor Supply</span>
     <div class="paper-meta">with Chae Won Baek and Vitaliia Yaremko.</div>
     <div class="paper-links"><a href="https://www.socialscienceregistry.org/trials/17600">AEA RCT Registry 0017600</a></div>
   </li>
   <li>
-    <span class="paper-title">Fertility Expectation Distortions and Low Fertility: An Information Experiment on Fertility Intentions</span>
+    <span class="paper-title">Someday, Just Not Now: Subjective Expectations about Marriage and Childbearing in Korea</span>
     <div class="paper-meta">with Suanna Oh, Kwanghwan Kim, Taekyung Kim, Myunghwan Lee, Myungkyu Shim, and Inkyung Yoo. Data collection supported by the Bank of Korea.</div>
   </li>
 </ul>
